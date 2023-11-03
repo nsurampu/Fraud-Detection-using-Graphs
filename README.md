@@ -4,10 +4,10 @@ A simple demonstration of using graph technology for fraud detection, built as p
 
 ## Required libraries/technologies
 - Python
--   Dagster
--   Pandas
--   Neo4j Driver
--   Streamlit
+  - Dagster
+  - Pandas
+  - Neo4j Driver
+  - Streamlit
 - Neo4j Desktop
 
 ## How to run this project?
